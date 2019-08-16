@@ -27,3 +27,17 @@
 - [二叉树中和为某一值的路径]
 - [复杂链表的复制](CloneComplexList.md)
 - [二叉搜索树与双向链表](ConvertBSTToDEL.md)
+- [字符串的排列](StringPermutation.md)
+- [数组中出现次数超过一半的数字](FindMoreThanHalfTimeNumber.md)
+- [最小的K个数](FindTopKNumbers.md)
+- [连续子数组的最大和](FindGreatestSumOfSubArray.md)
+- [整数中1出现的次数(从1到n整数中1出现的次数)](FindTimesOf1Between1AndN.md)
+- [把数组排成最小的数](PrintMinNumber.md)
+- [丑数](FindNthUglyNumber.md)
+- [第一次只出现一次的字符]
+- [数组中的逆序对]
+- [两个链表的第一个公共结点](FindFirstCommonNode.md)
+- [数字在排序数组中出现的次数](CountTimesOfK.md)
+- [二叉树的深度](CountBiTreeDepth.md)
+- [平衡二叉树](IsBalancedBiTree.md)
+- [数组中只出现一次的数](FindTwoNumsAppearOnce.md)
