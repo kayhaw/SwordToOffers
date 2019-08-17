@@ -41,3 +41,6 @@
 - [二叉树的深度](CountBiTreeDepth.md)
 - [平衡二叉树](IsBalancedBiTree.md)
 - [数组中只出现一次的数](FindTwoNumsAppearOnce.md)
+- [和为S的连续正数序列](ContinuousSequence.md)
+- [和为S的两个数字](FindNumbersWithSum.md)
+- [左旋转字符串](LeftRotateString.md)
