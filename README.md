@@ -59,3 +59,9 @@
 - [删除链表中重复的结点](DelDuplicatedNode.md)
 - [二叉树的下一个结点](ConstructNextPointerByInorder.md)
 - [对称的二叉树](IsBiTreeSymmetrical.md)
+- [按之字形顺序打印二叉树](PrintBiTreeInZorder.md)
+- [把二叉树打印成多行](PrintBiTreeInLevel.md)
+- [序列化二叉树]
+- [二叉搜索树的第K个结点](FindKthNodeInBST.md)
+- [数据流中的中位数](GetMedianInStream.md)
+- [滑动窗口的最大值](MaximumOfSlipWindow.md)
