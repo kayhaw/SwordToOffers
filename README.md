@@ -5,6 +5,7 @@
 - [二维数组中的查找](FindInMatrix.md)
 - [替换空格](ReplaceSpace.md)
 - [从尾到头打印链表](PrintListFromTailToHead.md)
+- [重建二叉树](ReconstructBiTree.md)
 - [用两个栈实现队列](TwoStacksQueue.md)
 - [旋转数组的最小数字](MinNumInRotatedArray.md)
 - [斐波那契数列](FibonacciArray.md)
@@ -65,3 +66,5 @@
 - [二叉搜索树的第K个结点](FindKthNodeInBST.md)
 - [数据流中的中位数](GetMedianInStream.md)
 - [滑动窗口的最大值](MaximumOfSlipWindow.md)
+- [矩阵中的路径](FindPathInMatrix.md)
+- [机器人的运动范围](RobotMoveStepCount.md)
